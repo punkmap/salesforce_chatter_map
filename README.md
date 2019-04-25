@@ -1,3 +1,8 @@
+
+# salesforce_chatter_map
+this react project integrates Salesforce data into an ESRI javascript API application. ESRI featurelayers are symbolized by attributes pulled from Salesforce. Salesforce chatter is integrated into this application so that chatter feeds can be updated via feature selection. The state parameter for the oauth callback is used to query features on applicaiotn load so that features can be directly querried from a link within Salesforce.  
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
